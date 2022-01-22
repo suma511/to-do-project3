@@ -1,2 +1,2 @@
 # to-do-project3
-![](image.jpg)
+![wireframe](image.jpg)
